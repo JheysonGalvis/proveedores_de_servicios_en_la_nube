@@ -1,0 +1,25 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightseagreen;
+    color: white;
+}
+h1{
+    background-color: lightcoral;
+    color: orange;
+}
+a{
+    text-decoration: none;
+    color: purple;
+}
+.content{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+li{
+    text-align: left;
+}
